@@ -1,0 +1,5 @@
+_Resharper*
+.vs
+.vscode
+out/
+build/
